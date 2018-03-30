@@ -13,4 +13,9 @@
 
 4. [Guided BackPropagation with MNIST](https://github.com/GunhoChoi/Grad-CAM-Pytorch/blob/master/GuidedBackprop_MNIST.ipynb
 )
+
+<img src="https://github.com/GunhoChoi/Grad-CAM-Pytorch/blob/master/guided_backprop_practice/Guidedbackprop.png" width="500">
+
 5. [Grad-CAM with MNIST](https://github.com/GunhoChoi/Grad-CAM-Pytorch/blob/master/GradCAM_MNIST.ipynb)
+
+<img src ="https://github.com/GunhoChoi/Grad-CAM-Pytorch/blob/master/gradcam.png" width="500">
